@@ -1,5 +1,9 @@
 [
   {
+    "package": "influxdbr",
+    "oncran": true
+  },
+  {
     "package": "swmmr",
     "oncran": true
   }
