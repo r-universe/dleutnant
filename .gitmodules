@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "swmmr"]
-	path = swmmr
-	url = https://github.com/dleutnant/swmmr
-	shallow = true
-	registered = true
 [submodule "influxdbr"]
 	path = influxdbr
 	url = https://github.com/dleutnant/influxdbr
+	shallow = true
+	registered = true
+[submodule "swmmr"]
+	path = swmmr
+	url = https://github.com/dleutnant/swmmr
 	shallow = true
 	registered = true

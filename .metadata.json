@@ -1,10 +1,10 @@
 [
   {
-    "package": "swmmr",
+    "package": "influxdbr",
     "oncran": true
   },
   {
-    "package": "influxdbr",
+    "package": "swmmr",
     "oncran": true
   }
 ]
