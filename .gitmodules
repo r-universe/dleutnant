@@ -8,8 +8,3 @@
 	url = https://github.com/dleutnant/influxdbr
 	shallow = true
 	registered = true
-[submodule "swmmr"]
-	path = swmmr
-	url = https://github.com/dleutnant/swmmr
-	shallow = true
-	registered = true
